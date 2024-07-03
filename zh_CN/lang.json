@@ -50,7 +50,7 @@
         "author": "关卡作者:",
         "function(except)": {
           "id_is_empty": "错误:id为空喵\n\n\n查询的id:${0}",
-          "status_error": "错误:${0}\n状态码:${1}\n\n\n查询的id:${2}",
+          "status_error": "错误: ${0}\n状态码: ${1}\n\n\n查询的ID: ${2}",
           "error": "错误:\n${0}: ${1}"
         },
         "function(TUF_success)": "关卡ID:${0}\n音乐:${1} - ${2}\n关卡作者:${4}\n难度:${5}(${5})\n视频链接:${6}\n下载链接:${7}\n创意工坊链接:${8}",
@@ -66,9 +66,9 @@
         "status": "状态:",
         "function(except)": {
           "id_is_empty": "文件ID不能为空",
-          "id_not_find": "错误:指定的文件ID [${0}] 不存在",
+          "id_not_find": "错误: 指定的文件ID [${0}] 不存在",
           "link_is_empty": "链接不能为空",
-          "link_not_find": "错误:url [${0}] 不存在",
+          "link_not_find": "错误: URL [${0}] 不存在",
           "fail": "请求失败:${0}",
           "error_dict": "无法访问指定目录:\n[${0}/${1}]\n${2}:${4}",
           "error": "错误:\n${0}: ${1}"
