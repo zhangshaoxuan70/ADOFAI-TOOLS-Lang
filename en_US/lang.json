@@ -34,7 +34,7 @@
           "error_level": "Invalid Level",
           "xacc_so_low": "Your X-Accuracy is so low lol (need 95% and more)",
           "write_empty": "Please fill in the blanks",
-          "write_rank": "Please fill in the rank",
+          "write_rank": "Please fill in the ranking",
           "error": "ERROR:\n${0}: ${1}"
         },
         "function(success)": "Score ${0} | Ranked Score ${1}"
