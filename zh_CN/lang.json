@@ -49,14 +49,14 @@
         "song": "音乐:",
         "author": "关卡作者:",
         "function(except)": {
-          "id_is_empty": "错误:id为空喵\n\n\n查询的id:${0}",
+          "id_is_empty": "错误: ID为空喵\n\n\n查询的ID: ${0}",
           "status_error": "错误: ${0}\n状态码: ${1}\n\n\n查询的ID: ${2}",
           "error": "错误:\n${0}: ${1}"
         },
-        "function(TUF_success)": "关卡ID:${0}\n音乐:${1} - ${2}\n关卡作者:${4}\n难度:${5}(${5})\n视频链接:${6}\n下载链接:${7}\n创意工坊链接:${8}",
-        "function(ADOFAIGG_success)": "关卡ID:${0}\n音乐:${1} - ${2}\n关卡作者:${4}\n难度:${5}\n视频链接:${5}\n下载链接:${6}\n创意工坊链接:${7}\n物量:${8}\n标签:${9}",
-        "function(AQR_success)": "音乐:${0} - ${1}\n关卡作者:${2}\n难度/质量:${3}/${4}\n评估:${5}\n视频链接:${6}\n下载链接:${7}",
-        "function(find)": "发现了${0}个关卡\n\n--------\n\n"
+        "function(TUF_success)": "关卡ID: ${0}\n音乐: ${1} - ${2}\n关卡作者: ${4}\n难度: ${5}(${5})\n视频链接: ${6}\n下载链接: ${7}\n创意工坊链接: ${8}",
+        "function(ADOFAIGG_success)": "关卡ID: ${0}\n音乐: ${1} - ${2}\n关卡作者: ${4}\n难度: ${5}\n视频链接: ${5}\n下载链接: ${6}\n创意工坊链接: ${7}\n物量: ${8}\n标签: ${9}",
+        "function(AQR_success)": "音乐: ${0} - ${1}\n关卡作者: ${2}\n难度/质量: ${3}/${4}\n评估: ${5}\n视频链接: ${6}\n下载链接: ${7}",
+        "function(find)": "发现了 ${0} 个关卡\n\n--------\n\n"
       },
       "filedownload": {
         "name": "外网文件下载",
@@ -69,18 +69,18 @@
           "id_not_find": "错误: 指定的文件ID [${0}] 不存在",
           "link_is_empty": "链接不能为空",
           "link_not_find": "错误: URL [${0}] 不存在",
-          "fail": "请求失败:${0}",
-          "error_dict": "无法访问指定目录:\n[${0}/${1}]\n${2}:${4}",
+          "fail": "请求失败: ${0}",
+          "error_dict": "无法访问指定目录:\n[${0}/${1}]\n${2}: ${4}",
           "error": "错误:\n${0}: ${1}"
         },
         "function()": {
-          "downloading": "状态:服务器下载文件中",
-          "downloadingprocess": "状态:已下载${0}MB / ${1}MB"
+          "downloading": "状态: 服务器下载文件中",
+          "downloadingprocess": "状态: 已下载 ${0}MB / ${1}MB"
         },
         "function(success)": "文件 ${0} 下载成功"
       },
       "moddownload": {
-        "name": "mod下载",
+        "name": "MOD下载",
         "download": "下载",
         "reload": "刷新",
         "signName": "名字",
@@ -91,12 +91,12 @@
       },
       "menu": {
         "name": "关于",
-        "producer": "主制作: ",
-        "specialThanks": "特别感谢: ",
+        "producer": "主制作:",
+        "specialThanks": "特别感谢:",
         "contact_us": "联系我们",
-        "email": "邮箱: ",
+        "email": "邮箱:",
         "updateLog": "更新日志",
-        "github": "Github链接"
+        "github": "Github链接:"
       }
     },
     "logV1": {
