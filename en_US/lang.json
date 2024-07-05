@@ -15,7 +15,7 @@
         "add_success": "Successfully Add \"${0}\"",
         "get_list_effect": "These effects will be removed: ${0}",
         "function(except)": {
-          "not_adofai_file": "File is NOT an ADOFAI File!",
+          "not_adofai_file": "The selected file is not an ADOFAI file!",
           "not_select_file": "File Can Not Be Null",
           "error": "ERROR:\n${0}: ${1}"
         },
@@ -84,7 +84,7 @@
         "download": "Download",
         "reload": "Reload",
         "signName": "Name",
-        "version": "Ver",
+        "version": "Version",
         "author": "Author",
         "modID": "Update Time",
         "select_mod_version": "Select Version"
