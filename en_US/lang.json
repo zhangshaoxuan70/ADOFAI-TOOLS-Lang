@@ -55,7 +55,7 @@
         },
         "function(TUF_success)": "TUR ID: ${0}\nSong: ${1} - ${2}\nAuthor: ${4}\nDifficulty: ${5}(${5})\nVideo Link: ${6}\nDownload Link: ${7}\nSteam Workshop Link: ${8}",
         "function(ADOFAIGG_success)": "AODFAI.gg Id: ${0}\nSong: ${1} - ${2}\nAuthor: ${4}\nDifficulty: ${5}\nVideo Link: ${5}\nDownload Link: ${6}\nSteam Workshop Link: ${7}\nTiles: ${8}\nTag: ${9}",
-        "function(AQR_success)": "AODFAI.gg ID: ${0}\nSong: ${1} - ${2}\nAuthor: ${4}\nDifficulty: ${5}\nVideo Link: ${5}\nDownload Link: ${6}\nSteam Workshop Link: ${7}\nTiles: ${8}\nTag: ${9}",
+        "function(AQR_success)": "Song: ${0} - ${1}\nAuthor: ${2}\nDifficulty/Quality: ${3}/${4}\nVluation: ${5}\nVideo Link: ${6}\nDownload Link: ${7}",
         "function(find)": "Found ${0} Levels\n\n--------\n\n"
       },
       "filedownload": {
